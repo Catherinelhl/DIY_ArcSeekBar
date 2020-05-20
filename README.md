@@ -16,4 +16,4 @@
 
 ```
 
-![like_ios](like_ios.mp4)
+![like_ios](like_ios.gif)
