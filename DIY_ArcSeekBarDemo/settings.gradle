@@ -1,0 +1,2 @@
+rootProject.name='DIY_ArcSeekBar'
+include ':app'

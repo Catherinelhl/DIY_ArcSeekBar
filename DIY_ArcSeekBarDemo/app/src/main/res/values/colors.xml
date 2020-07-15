@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111111</color>
+    <color name="orange_FF9F0A">#FF9F0A</color>
+    <color name="orange_FFD30A">#FFD30A</color>
+
+
+    <color name="grey_week_unSelected_555555">#555555</color>
+    <color name="grey_week_Selected_FF9F0A">#FF9F0A</color>
+
+    <color name="orange_FF9F0A_text">#FF9F0A</color>
+    <color name="orange_FFD60A_text">#FFD60A</color>
+    <color name="white">#ffffff</color>
+    <color name="black_0A0A0A">#0A0A0A</color>
+    <color name="line_color_2B2B2E">#2B2B2E</color>
+
+    <color name="color_circle_path_1C1C1E">#1C1C1E</color>
+    <color name="color_scale_8C8C91_big">#8C8C91</color>
+    <color name="color_scale_464649">#464649</color>
+</resources>

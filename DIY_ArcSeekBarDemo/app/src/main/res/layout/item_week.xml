@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatCheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cb"
+    android:layout_width="31dp"
+    android:layout_height="31dp"
+    android:layout_margin="5dp"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/cb_week_selector"
+    android:button="@null"
+    android:gravity="center"
+    android:text="M" />
